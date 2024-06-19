@@ -8,16 +8,6 @@ function Weather() {
         <div className="col-sm-9">
           <div className="container mt-2">
             <div className="row">
-              <div className="col mt-3 mb-3">
-                <div className="countries">
-                  {" "}
-                  <a href="#"> Lisbon</a> <a href="#">Paris</a>
-                  <a href="#">Sydney</a>
-                  <a href="#">San Franscisco</a>
-                </div>
-              </div>
-            </div>
-            <div className="row">
               <div className="col mb-4">
                 <form>
                   <input
